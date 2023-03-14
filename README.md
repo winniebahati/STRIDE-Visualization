@@ -43,13 +43,12 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- src/                             Source code used in the thesis / paper
+     |--- src/                             Contains the python notebook containing the step by step analysis of the data obtained from participants.
      |
-     |--- documentation/                   Further structured documentation of the replication package content
+     |--- documentation/                   Contains the scenario description for each experiement, and the list of threats for each scenario.
      |
-     |--- data/                            Data used in the thesis / paper 
-            |
-            |--- additional_subfolder/     Subfolders should be further nested to increase readability                 
+     |--- data/                            Contains sample data obtained from participants reports. All identifiable information has been removed.
+                         
   
 
 Usually, replication packages should include:
