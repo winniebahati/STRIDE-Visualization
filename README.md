@@ -1,4 +1,4 @@
-# Thesis / Paper Title
+# The role of Data Flow Diagrams in validating identified security threats
 This repository is a companion page for the following thesis / publication:
 > Author Names. Publication year. Thesis / Paper title. Publication venue / proceedings.
 
