@@ -3,7 +3,7 @@ This repository contains the data used to execute a control experiement to measu
 
 ### General overview
 Several steps were followed in it's execution. 
-First we prepared all textual materials. This included choosing relevant but comparable scenarios. To this end, we presented a kubernetes and a GitHub scenario for the first and confirming experiments. To further make the student's background knowledge comparable , for the subjects relevant to this study (security and selected scenarios), we developed training videos.
+First we prepared all textual materials. This included choosing relevant but comparable scenarios. To this end, we presented a kubernetes and a GitHub scenario for the first and confirming experiments. To further make the student's background knowledge comparable , for the subjects relevant to this study (security and the domains of the selected scenarios), we developed training videos.
 From the scenarios, we compiled 10 threats, each containing a unique thretad ID, threat description, assumption, affected components, and an associated STRIDE threat type. 5 of the threats were real and 5 were fabricated.
 Additional reading materials, selcted book chapters on STRIDE were also made availabe.
 
@@ -22,26 +22,11 @@ To aide in the replication, we have made available the following materials;
 5. python notebook
 
 ## How to cite us
-The scientific article describing design, execution, and main results of this study is available [here](https://www.google.com).<br> 
-If this study is helping your research, consider to cite it is as follows, thanks!
+To be updated
 
-```
-@article{,
-  title={},
-  author={},
-  journal={},
-  volume={},
-  pages={},
-  year={},
-  publisher={}
-}
-```
-
-## Quick start
-Here a documentation on how to use the replication material should be provided.
 
 ### Getting started
-
+To execute the python file, first 
 
 
 ## Repository Structure
