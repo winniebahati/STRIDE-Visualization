@@ -15,8 +15,8 @@ From the list of threats, the participants were required to identify/choose the 
 
 ### Available material for replication
 To aide in the replication, we have made available the following materials;
-1. Scenario descriptions
-2. List of threats
+1. Scenario descriptions, with a sequence diagram and a data flow diagram
+2. List of threats, one from the Kubernetes scenario and one from the GitHub scenario
 3. Sample entry questionnaire
 4. Sample participants report and exit questionnaire
 5. python notebook
