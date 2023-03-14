@@ -50,7 +50,7 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- src/                             Contains the python notebook with a step-by-step analysis of the data obtained from participants. We did not provide the                                                actual data used in analysis, however, the data format follows the same columns contained in the excel files uploaded in the                                            "Data folder" in this repository. 
+     |--- src/                             Contains the python notebook with a step-by-step analysis of the data obtained from participants. We did not provide the actual data used in analysis, however, the data format follows the same columns contained in the excel files uploaded in the "Data folder" in this repository. 
      |
      |--- documentation/                   Contains the scenario description for each experiement, and the list of threats adopted from each scenario.
      |
@@ -58,18 +58,8 @@ This is the root directory of the repository. The directory is structured as fol
                          
   
 
-Usually, replication packages should include:
-* a [src](src/) folder, containing the entirety of the source code used in the study,
-* a [data](data/) folder, containing the raw, intermediate, and final data of the study
-* if needed, a [documentation](documentation/) folder, where additional information w.r.t. this README is provided. 
 
-In addition, the replication package can include additional data/results (in form of raw data, tables, and/or diagrams) which were not included in the study manuscript.
 
-## Replication package naming convention
-The final name of this repository, as appearing in the published article, should be formatted according to the following naming convention:
-`<short conference/journal name>-<yyyy>-<semantic word>-<semantic word>-rep-pkg`
-
-For example, the repository of a research published at the International conference on ICT for Sustainability (ICT4S) in 2022, which investigates cloud tactics would be named `ICT4S-2022-cloud-tactics-rep-pkg`
 
 ## Preferred repository license
 As general indication, we suggest to use:
