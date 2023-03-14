@@ -1,13 +1,18 @@
 # The role of Data Flow Diagrams in validating identified security threats- Replication package
 This repository contains the data used to execute a control experiement to measure the role of a data flow diagram in validating security threats. The experiement was conducted in two universities, in the Netherlands and China.
 
+Several steps were followed in it's execution. 
+First we prepared all textual materials. This included choosing relevant but comparable scenarios. To this end, we presented a kubernetes and a GitHub scenario for the first and confirming experiments. To further make the student's background knowledge comparable , for the subjects relevant to this study (security and selected scenarios), we developed training videos.
+From the scenarios, we compiled 10 threats, each containing a unique thretad ID, threat description, assumption, affected components, and an associated STRIDE threat type. 5 of the threats were real and 5 were fabricated.
+Additional reading materials, selcted book chapters on STRIDE were also made availabe.
+
 
 To aide in the replication, we have made available the following materials;
 1. Scenario descriptions
 2. List of threats
 3. Sample entry questionnaire
 4. Sample participants report and exit questionnaire
-5. pytho notebook
+5. python notebook
 
 ## How to cite us
 The scientific article describing design, execution, and main results of this study is available [here](https://www.google.com).<br> 
@@ -29,6 +34,11 @@ If this study is helping your research, consider to cite it is as follows, thank
 Here a documentation on how to use the replication material should be provided.
 
 ### Getting started
+
+
+### The Task
+From the list of threats, the participants were required to identify the actual threats.
+
 
 1. Provide step-by-step instruction on how to use this repository, including requirements, and installation / script execution steps.
 
