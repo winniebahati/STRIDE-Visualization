@@ -7,13 +7,13 @@ First we prepared all textual materials. This included choosing relevant but com
 From the scenarios, we compiled 10 threats, each containing a unique thretad ID, threat description, assumption, affected components, and an associated STRIDE threat type. 5 of the threats were real and 5 were fabricated.
 Additional reading materials, selcted book chapters on STRIDE were also made availabe.
 
-To compare the role of the data flow diagram in validating threats, we 
+To compare the role of the data flow diagram in validating threats, we proposed comparing it to a process diagram, a sequence diagram. To this end, we defined two treatment group. Intervention received both the DFD and sequence diagram while control group received only a sequence diagram.
 
 ### The Task
-From the list of threats, the participants were required to identify the actual threats.
+From the list of threats, the participants were required to identify/choose the actual threats.
 
 
-
+### Available material for replication
 To aide in the replication, we have made available the following materials;
 1. Scenario descriptions
 2. List of threats
@@ -50,9 +50,9 @@ This is the root directory of the repository. The directory is structured as fol
     template-replication-package
      .
      |
-     |--- src/                             Contains the python notebook containing the step by step analysis of the data obtained from participants.
+     |--- src/                             Contains the python notebook with a step-by-step analysis of the data obtained from participants. We did not provide the                                                actual data used in analysis, however, the data format follows the same columns contained in the excel files uploaded in the                                            "Data folder" in this repository. 
      |
-     |--- documentation/                   Contains the scenario description for each experiement, and the list of threats for each scenario.
+     |--- documentation/                   Contains the scenario description for each experiement, and the list of threats adopted from each scenario.
      |
      |--- data/                            Contains sample data obtained from participants reports. All identifiable information has been removed.
                          
