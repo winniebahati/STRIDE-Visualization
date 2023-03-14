@@ -2,7 +2,8 @@
 This repository is a companion page for the following thesis / publication:
 > Author Names. Publication year. Thesis / Paper title. Publication venue / proceedings.
 
-It contains all the material required for replicating the study, including: X, Y, and Z.
+It contains all the material required for replicating the study, including: 
+1. Scenario descriptions
 
 ## How to cite us
 The scientific article describing design, execution, and main results of this study is available [here](https://www.google.com).<br> 
