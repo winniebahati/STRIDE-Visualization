@@ -27,10 +27,10 @@ To be updated
 
 ### Getting started
 To execute the python file:
-1. First dowload the "sample participants report and exit questionnaire". The format of the excel file is the same as the one used during this data analysis.
-2. Add the excel file to your Google drive
+1. First dowload the "sample participants report and exit questionnaire" file. The format of the csv file is the same as the one used during this data analysis.
+2. Add the csv file to your Google drive
 3. Open the .ipynb file and follow the specified steps. 
-4. Change the drive directory and the file name of the downloaded excel sheet 
+4. Change the drive directory and the file name of the downloaded csv sheet 
 5. All relevant python packages have already been pre-defined where necessary
 
 
