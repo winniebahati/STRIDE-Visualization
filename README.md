@@ -1,7 +1,7 @@
 # The role of Data Flow Diagrams in validating identified security threats- Replication package
-This repository contains the repliction package and dataset 
-is a companion page for the following thesis / publication:
-#> Author Names. Publication year. Thesis / Paper title. Publication venue / proceedings.
+This repository contains the data used to execute a control experiement to measure the role of a data flow diagram in validating security threats. The experiement was conducted in two universities, in the Netherlands and China. 
+
+
 
 It contains all the material required for replicating the study, including: 
 1. Scenario descriptions
