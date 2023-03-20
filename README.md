@@ -53,9 +53,3 @@ This is the root directory of the repository. The directory is structured as fol
 
 
 
-
-## Preferred repository license
-As general indication, we suggest to use:
-* [MIT license](https://opensource.org/licenses/MIT) for code-based repositories, and 
-* [Creative Commons Attribution 4.0	(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) for text-based repository (papers, docts, etc.).
-
