@@ -6,12 +6,19 @@ The scientific article describing design, execution, and main results of this st
 If this study is helping your research, consider to cite it is as follows, thanks!
 
 @article{,
+
   title={},
+  
   author={},
+  
   journal={},
+  
   volume={},
+  
   pages={},
+  
   year={},
+  
   publisher={}
 }
 
