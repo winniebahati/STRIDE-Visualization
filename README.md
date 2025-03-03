@@ -11,7 +11,7 @@ If this study is helping your research, consider to cite it is as follows, thank
   
   author={Mbaka, Winnie Bahati and Zhang, Xinran and Wang, Yunduo and Li, Tong and Massacci, Fabio and Tuma, katja},
   
-  journal={COmputers & Security},
+  journal={Computers & Security},
   
   volume={},
   
