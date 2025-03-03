@@ -63,7 +63,7 @@ This is the root directory of the repository. The directory is structured as fol
      .
      |--- data/                            Contains sample data obtained from participants reports. All identifiable information has been removed.
      |
-     |--- documentation/                   Contains the scenario description for each experiement, and the list of threats adopted from each scenario.
+     |--- documentation/                   Contains the scenario description for each experiement, the list of threats adopted from each scenario and a document containing the justification for the validity of each threat alongside the information cues and technical knowledge necessary for validating the threats.
      |
      |--- src/                             Contains the python notebook with a step-by-step analysis of the data obtained from participants. We did not provide the actual data used in analysis, however, the data format follows the same columns contained in the excel files uploaded in the "Data folder" in this repository. 
     
