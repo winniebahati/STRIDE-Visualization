@@ -5,19 +5,19 @@ This repository contains the data used to execute a control experiement to measu
 The scientific article describing design, execution, and main results of this study is available here.
 If this study is helping your research, consider to cite it is as follows, thanks!
 
-@article{,
+@article{mbaka2025validating,
 
-  title={},
+  title={Assessing the usefulness of Data Flow Diagrams for validating security threats},
   
-  author={},
+  author={Mbaka, Winnie Bahati and Zhang, Xinran and Wang, Yunduo and Li, Tong and Massacci, Fabio and Tuma, katja},
   
-  journal={},
+  journal={COmputers & Security},
   
   volume={},
   
   pages={},
   
-  year={},
+  year={2025},
   
   publisher={}
 }
