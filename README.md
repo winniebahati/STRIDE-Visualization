@@ -2,6 +2,7 @@
 This repository contains the data used to execute a control experiement to measure the role of a data flow diagram in validating security threats. The experiement was conducted in two universities, in the Netherlands and China.
 
 ### How to Cite us
+To be updated....
 The scientific article describing design, execution, and main results of this study is available here.
 If this study is helping your research, consider to cite it is as follows, thanks!
 
@@ -42,8 +43,7 @@ To aide in the replication, we have made available the following materials;
 4. Sample participants report and exit questionnaire
 5. python notebook
 
-## How to cite us
-To be updated
+
 
 
 ### Getting started
